@@ -1,4 +1,4 @@
-# n8n_KI-Lernassistent-f-r-Abiturienten
+# n8n_KI-Lernassistent-fuer-Abiturienten
 KI-Lernassistent für Abiturienten zur Abschlussprüfung
 
 1. Produktidee & Motivation
